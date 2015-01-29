@@ -1,0 +1,9 @@
+Name: Dan Cheng
+Andrew ID: danc
+Lab2P2.5 16-311
+
+The distance results from small board are pretty accurate but the errors for large board are bigger.
+I think the greater error for large board is because when I was taking photos from 2 feet, I could not
+fit the whole board into my screen so I slanted my camera instead of putting it parallel with the board
+so that I can get all four balls on the corner. The slanted angle distorts the board and introduces more 
+errors,as I can see from the data that 2m_large has 16% of error which is more than twice than other data.
